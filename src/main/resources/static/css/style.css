@@ -1,0 +1,18 @@
+@charset "UTF-8";
+
+table, tr, td {
+  border:1px solid black;
+  border-color:black;
+}
+
+.error{
+	color:red;
+}
+
+.nameContainer{
+	margin-left:100px;
+}
+
+span{
+	font-size:25px;
+}
